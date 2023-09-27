@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://tungchunchang.org/" 
+title: Tung-Chun Chang
 paginate: 20
 theme: PaperMod
 
@@ -53,11 +53,11 @@ params:
     profileMode:
           enabled: true
           title: Tung-Chun Chang
-          subtitle: "I am a PhD student in the department of computer science at the University of California, Irvine. My research interests include Internet of Things, networked systems, wireless networks, and social networks."
-          imageUrl: "/picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Pascal Michaillat
+          subtitle: "I am a PhD student in the [Distributed Systems and Middleware Group (DSM)](https://www.ics.uci.edu/~dsm/index.html) and the [Information Systems Group (ISG)](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/), and my research interests include Internet of Things, networked systems, wireless networks, and social networks."
+          #imageUrl: "/picture.jpeg"
+          #imageWidth: 160
+          #imageHeight: 160
+          #imageTitle: Pascal Michaillat
           buttons:
             - name: Papers
               url: /papers/
@@ -71,17 +71,17 @@ params:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:tungchuc@uci.edu
         - name: Location
           url: /location/
-        - name: Office Hours
-          url: /officehours/
+        #- name: Office Hours
+        #  url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=MlvWRuoAAAAJ
+        #- name: YouTube
+        #  url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/tungchunchang
 
     assets:
         disableHLJS: true
@@ -90,7 +90,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Tung-Chun Chang"
       icon: /favicon.ico
       iconHeight: 18
 
