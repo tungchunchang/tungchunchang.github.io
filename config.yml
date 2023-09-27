@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Tung-Chun Chang
           subtitle: "I am a PhD student in the [Distributed Systems and Middleware Group (DSM)](https://www.ics.uci.edu/~dsm/index.html) and the [Information Systems Group (ISG)](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/), and my research interests include Internet of Things, networked systems, wireless networks, and social networks."
-          imageUrl: "https://github.com/tungchunchang/tungchunchang.github.io/blob/main/static/profile.jpg"
+          imageUrl: "/profile.jpg"
           imageWidth: 220
           imageHeight: 220
           imageTitle: Tung-Chun Chang
