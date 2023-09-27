@@ -28,9 +28,9 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am a PhD student in the department of computer science at the University of California, Irvine. My research interests include Internet of Things, networked systems, wireless networks, and social networks."
+    author: Tung-Chun Chang
+    #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          title: Tung-Chun Chang
+          subtitle: "I am a PhD student in the department of computer science at the University of California, Irvine. My research interests include Internet of Things, networked systems, wireless networks, and social networks."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
