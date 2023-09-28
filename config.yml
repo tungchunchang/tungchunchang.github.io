@@ -11,21 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Publication
+          url: /publication/
           weight: 1
+        #- name: Papers
+        #  url: /papers/
+        #  weight: 2
         - name: Courses
           url: /courses/
           weight: 2
         - name: Design
           url: /design/
           weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 5     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        #- name: Tags
+        #  url: /tags/
+        #  weight: 5     
+        #- name: Newsletter
+        #  url: https://pmichaillat.substack.com
+        #  weight: 4
 
 params:
     description: "I am a PhD student in the department of computer science at the University of California, Irvine. My research interests include Internet of Things, networked systems, wireless networks, and social networks."
@@ -53,20 +56,22 @@ params:
     profileMode:
           enabled: true
           title: Tung-Chun Chang
-          subtitle: "I am a PhD student in the [Distributed Systems and Middleware Group (DSM)](https://www.ics.uci.edu/~dsm/index.html) and the [Information Systems Group (ISG)](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [Nalini Venkatasubramanian](https://nalini.ics.uci.edu/), and my research interests include Internet of Things, networked systems, wireless networks, and social networks."
+          subtitle: "I am a PhD student in the [**Distributed Systems and Middleware Group (DSM)**](https://www.ics.uci.edu/~dsm/index.html) and the [**Information Systems Group (ISG)**](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [**Nalini Venkatasubramanian**](https://nalini.ics.uci.edu/), and my research interests include Internet of Things, networked systems, wireless networks, and social networks."
           imageUrl: "/profile.jpg"
           imageWidth: 220
           imageHeight: 220
           imageTitle: Tung-Chun Chang
           buttons:
-            - name: Papers
-              url: /papers/
+            - name: Publication
+              url: /publication/
+            #- name: Papers
+            #  url: /papers/
             - name: Courses
               url: /courses/
             - name: Design
               url: /design/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            #- name: Newsletter
+            #  url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
           url: /cv.pdf
