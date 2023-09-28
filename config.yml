@@ -11,18 +11,24 @@ taxonomies:
 
 menu:
     main:
+        - name: Education
+          url: /education/
+          weight: 1
+        - name: Experience
+          url: /experience/
+          weight: 2
         - name: Publication
           url: /publication/
-          weight: 1
+          weight: 3
         #- name: Papers
         #  url: /papers/
         #  weight: 2
-        - name: Courses
-          url: /courses/
-          weight: 2
-        - name: Design
-          url: /design/
-          weight: 3
+        #- name: Courses
+        #  url: /courses/
+        #  weight: 2
+        #- name: Design
+        #  url: /design/
+        #  weight: 3
         #- name: Tags
         #  url: /tags/
         #  weight: 5     
@@ -56,20 +62,24 @@ params:
     profileMode:
           enabled: true
           title: Tung-Chun Chang
-          subtitle: "I am a PhD student in the [**Distributed Systems and Middleware Group (DSM)**](https://www.ics.uci.edu/~dsm/index.html) and the [**Information Systems Group (ISG)**](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [**Nalini Venkatasubramanian**](https://nalini.ics.uci.edu/), and my research interests include Internet of Things, networked systems, wireless networks, and social networks."
+          subtitle: "I am a PhD student in the [**Distributed Systems and Middleware Group (DSM)**](https://www.ics.uci.edu/~dsm/index.html) and the [**Information Systems Group (ISG)**](https://isg.ics.uci.edu/) at the University of California, Irvine. I worked with Prof. [**Nalini Venkatasubramanian**,](https://nalini.ics.uci.edu/) and my research interests include Internet of Things, networked systems, wireless networks, and social networks. I spent the summer of 2023 in Bosch Research, Pittsburgh, and worked closely with Prof. [**Anthony Rowe**](https://users.ece.cmu.edu/~agr/) at CMU on achieving ultra-low network latency for industrial automation."
           imageUrl: "/profile.jpg"
           imageWidth: 220
           imageHeight: 220
           imageTitle: Tung-Chun Chang
           buttons:
+            - name: Education
+              url: /education/
+            - name: Experience
+              url: /experience/
             - name: Publication
               url: /publication/
             #- name: Papers
             #  url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
+            #- name: Courses
+            #  url: /courses/
+            #- name: Design
+            #  url: /design/
             #- name: Newsletter
             #  url: https://pmichaillat.substack.com
     socialIcons:
