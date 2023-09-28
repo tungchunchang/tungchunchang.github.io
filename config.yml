@@ -97,6 +97,8 @@ params:
         #  url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/tungchunchang
+        - name: Linkedin
+          url: https://www.linkedin.com/in/tung-chun-chang/
 
     assets:
         disableHLJS: true
