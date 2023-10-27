@@ -39,7 +39,7 @@ menu:
 params:
     description: "I am a PhD student in the department of computer science at the University of California, Irvine. My research interests include Internet of Things, networked systems, wireless networks, and social networks."
     author: Tung-Chun Chang
-    #googleAnalyticsID: "G-97G4MZ4061"
+    googleAnalyticsID: "G-61211B2HVD"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -108,7 +108,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Tung-Chun Chang"
-      icon: /favicon.ico
+      icon: /icon.png
       iconHeight: 18
 
 markup:
