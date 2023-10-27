@@ -108,7 +108,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Tung-Chun Chang"
-      icon: /icon.png
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
